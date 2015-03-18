@@ -10,3 +10,9 @@ A list of resources for random data
 * http://www.json-generator.com
 * http://www.databasetestdata.com
 * http://www.getcreditcardnumbers.com
+* https://github.com/fzaninotto/Faker
+* http://www.randomtext.me
+* http://lipsum.com
+* http://www.fakenamegenerator.com
+* http://search.cpan.org/~jasonk/Data-Faker
+* https://rubygems.org/gems/faker
