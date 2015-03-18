@@ -1,6 +1,9 @@
 # RandomData
 A list of resources for random data
 
+# License
+Public Domain
+
 # Resources
 * https://uifaces.com
 * https://randomuser.me
