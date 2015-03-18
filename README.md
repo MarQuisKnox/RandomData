@@ -1,2 +1,2 @@
 # RandomData
-A list of resources for random data.
+A list of resources for random data
